@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627727368 source:d:\thuattoanattt\kmp\main.c
+	<stdio.h>
+	<string.h>
+
